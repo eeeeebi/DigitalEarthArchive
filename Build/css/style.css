@@ -127,7 +127,10 @@ a:hover{
 	width: 285px;
 }
 
+#c_place{display: none;}
+
 #setsumei{
+	display: none;
 	position: absolute;
 	bottom: 10px;
 	left: 20px;
