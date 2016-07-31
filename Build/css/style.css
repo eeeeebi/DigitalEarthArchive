@@ -164,7 +164,7 @@ a:hover{
     border-radius: 3px;
 }
 
-#slider {
+#slider { display: none;
 	position: absolute;
 	width: 160px;
 	top: 70px;
